@@ -13,5 +13,3 @@ USER me
 WORKDIR /home/me
 
 EXPOSE 22
-
-CMD ["sudo", "python", "/home/predictive-dispatching/Source/PredictiveDispatching.py"]
