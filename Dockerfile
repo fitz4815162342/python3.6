@@ -12,4 +12,6 @@ USER me
 
 WORKDIR /home/me
 
+ENV PYTHONPATH=/home/me
+
 EXPOSE 22
